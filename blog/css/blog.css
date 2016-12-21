@@ -1,0 +1,37 @@
+/*
+ * css
+ */
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #CCCCCC;
+}
+
+.container {
+	min-width: 1200px;
+	min-height:910px;
+}
+
+.blog-sidebar {
+  background-color:#428bca;
+  min-height:900px;
+}
+
+.blog-main {
+  font-size: 18px;
+  line-height: 1.5;
+  min-height:900px;
+  background-color:white;
+}
+
+.sidebar-module {
+  padding: 15px;
+  margin: 0 15px 15px;
+  color: white;
+}
+
+.main-module {
+  padding: 15px;
+  margin: 0 15px 15px;
+}
+
